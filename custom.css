@@ -1,0 +1,21 @@
+<style>
+    div.cell{
+        width:90%;
+        margin-left:0%;
+        margin-right:auto;
+        font-size: 120%;
+    }
+    
+    div.text_cell_render{
+        width:90%;
+        margin-left:0%;
+        margin-right:auto;
+        font-size: 110%;
+        line-height: 1.8;
+    }
+
+.rendered_html li
+{
+  margin-top:0.8em;
+  }
+</style>
